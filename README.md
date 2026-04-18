@@ -1,7 +1,5 @@
 # Web_Application_to_help_tourists_find_their_ideal_destination_in_india
 
-#  Different Places to Visit in India in Different Seasons
-
 ##  Project Overview
 This project is a web-based application that helps users explore the best tourist destinations across India based on different seasons. It provides an interactive and user-friendly interface to discover state-wise attractions with visual and descriptive information.
 
@@ -39,9 +37,6 @@ project-folder/
 ├── js/
 └── README.md
 
-
----
-
 ##  How to Run the Project
 1. Install **XAMPP** or any local server.
 2. Place the project folder inside the `htdocs` directory.
@@ -66,19 +61,12 @@ The application provides a smooth and interactive experience for users to explor
 -  Backend integration with database  
 
 ##  Contributors
-- Your Name  
-- Team Member 2  
-- Team Member 3  
-- Team Member 4  
-
-##  License
-This project is for academic purposes and learning use.
-
----
+- siddavarapu sanjana  
+- srinitha  
+- prasagna  
+- nikhitha  
 
 ##  Contact
-## 📬 Contact
 For any queries or suggestions, feel free to reach out via GitHub or LinkedIn.
-## 📬 Contact
 - LinkedIn:www.linkedin.com/in/sanjana-siddavarapu 
 - GitHub: https://github.com/Siddavarapu-Sanjana
